@@ -1,4 +1,4 @@
-package org.garagesales.gradle.plugin
+package com.github.bhokumar.gradle.plugin
 
 import org.gradle.api.Plugin
 import org.gradle.api.Project
