@@ -1,0 +1,10 @@
+
+group 'org.salesgarageapp'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'groovy'
+
+dependencies {
+    implementation gradleApi()
+    implementation localGroovy()
+}
