@@ -4,6 +4,8 @@ plugins {
     id 'signing'
 }
 
+sourceCompatibility = 1.8
+
 group 'com.github.bhokumar.gradle.plugin'
 version '1.0-SNAPSHOT'
 
@@ -40,7 +42,7 @@ publishing {
             customizePom(pom)
             groupId 'com.github.bhokumar.plugins'
             artifactId 'show-date-plugin'
-            version '1.0.0'
+            version '1.0.2'
 
             from components.java
 
