@@ -37,6 +37,7 @@ npm-debug.log.*
 **/.factorypath
 **/src/main/resources/rebel.xml
 **/.flattened-pom.xml
+**/out
 
 # External tool builders
 .externalToolBuilders/**
