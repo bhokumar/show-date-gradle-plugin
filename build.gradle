@@ -42,7 +42,7 @@ publishing {
             customizePom(pom)
             groupId 'com.github.bhokumar.plugins'
             artifactId 'show-date-plugin'
-            version '1.0.2'
+            version '1.1.0'
 
             from components.java
 
